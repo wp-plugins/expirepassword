@@ -6,7 +6,7 @@ Tested up to: 3.5.1
 Stable tag: 1.0
 Version: 1.0
 
-Enables a site administrator to expire a users password and enforce a change to a new, different password before they can login in again
+Enables a site administrator to expire a users password and enforce a change to a new, different password before they can login again
 
 == Description ==
 
